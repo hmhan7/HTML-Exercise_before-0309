@@ -38,6 +38,10 @@
     .link:hover{
         color: rgb(238, 26, 68); 
            }
+    .header{
+        margin-top: 20px;
+    }
+
 
     .header-title{
         font-size: 18px;
